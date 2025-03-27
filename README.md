@@ -28,17 +28,17 @@
 
 <br clear="both">
 
-<div align="right">
-  <a href="https://open.spotify.com/user/DANSOSA..">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=DANSOSA..&count=7" alt="Spotify recently played"  />
-  </a>
-</div>
+<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJuNTgybXpyajExaDExc3Z2eWhyenRmMTJ3bW1sMzBtcGlsbTFvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VApOqITOXZAd2/giphy.gif"  />
 
 ###
 
 <br clear="both">
 
-<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJuNTgybXpyajExaDExc3Z2eWhyenRmMTJ3bW1sMzBtcGlsbTFvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VApOqITOXZAd2/giphy.gif"  />
+<div align="right">
+  <a href="https://open.spotify.com/user/DANSOSA..">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=DANSOSA..&count=7" alt="Spotify recently played"  />
+  </a>
+</div>
 
 ###
 
