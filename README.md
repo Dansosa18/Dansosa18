@@ -8,6 +8,8 @@
 
 ###
 
+<br clear="both">
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dansosa18/Dansosa18/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Dansosa18/Dansosa18/output/pacman-contribution-graph.svg">
@@ -24,7 +26,9 @@
 
 ###
 
-<div align="center">
+<br clear="both">
+
+<div align="right">
   <a href="https://open.spotify.com/user/DANSOSA..">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=DANSOSA..&count=7" alt="Spotify recently played"  />
   </a>
@@ -34,7 +38,16 @@
 
 <br clear="both">
 
-<img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJuNTgybXpyajExaDExc3Z2eWhyenRmMTJ3bW1sMzBtcGlsbTFvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VApOqITOXZAd2/giphy.gif"  />
+<img align="left" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJuNTgybXpyajExaDExc3Z2eWhyenRmMTJ3bW1sMzBtcGlsbTFvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VApOqITOXZAd2/giphy.gif"  />
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+</div>
 
 ###
 
@@ -52,17 +65,10 @@
 
 <br clear="both">
 
-<div align="right">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-</div>
-
-###
-
 <div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=Dansosa18&theme=gruvbox_light" alt="Layout with last medium posts"  />
 </div>
 
 ###
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=snkfsd6cdgfq9kd634myb5axn)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=snkfsd6cdgfq9kd634myb5axn&count={count})
