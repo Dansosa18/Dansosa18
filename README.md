@@ -33,9 +33,9 @@
 
 ###
 
-<br clear="both">
+## Snake Animation
 
-<img src="https://raw.githubusercontent.com/Dansosa18/Dansosa18/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/Dansosa18/Dansosa18/blob/output/dist/snake.svg)
 
 ###
 
