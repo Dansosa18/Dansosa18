@@ -1,5 +1,5 @@
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">HOLA MUNDO BIENVENIDOS A MI GITHUB" </h2> 
 
 ###
 
@@ -33,11 +33,6 @@
 
 ###
 
-## Snake Animation
-
-![Snake animation](https://github.com/Dansosa18/Dansosa18/blob/output/dist/snake.svg)
-
-###
 
 ###
 
